@@ -73,7 +73,7 @@ Data augmentation is used to improve generalization and reduce overfitting. Tran
 ASL-Gesture-Recognition-Deep-Learning/
 │
 ├── ASL_Gesture_Recognition_MobileNetV2.ipynb
-├── Deep_Learning_Based_Sign_Language_Gesture_Recognition-2 (1).pdf
+├──ASL_Gesture_Recognition_Research_Paper.pdf
 ├── requirements.txt
 ├── .gitignore
 └── README.md
