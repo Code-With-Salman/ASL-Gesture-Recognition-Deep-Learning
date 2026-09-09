@@ -72,7 +72,7 @@ Data augmentation is used to improve generalization and reduce overfitting. Tran
 ```text
 ASL-Gesture-Recognition-Deep-Learning/
 │
-├── DL_PROJECT_ (1).ipynb
+├── ASL_Gesture_Recognition_MobileNetV2.ipynb
 ├── Deep_Learning_Based_Sign_Language_Gesture_Recognition-2 (1).pdf
 ├── requirements.txt
 ├── .gitignore
@@ -102,7 +102,7 @@ pip install -r requirements.txt
 Then launch Jupyter Notebook and open:
 
 ```text
-DL_PROJECT_ (1).ipynb
+ASL_Gesture_Recognition_MobileNetV2.ipynb
 ```
 
 ## Dataset Setup
